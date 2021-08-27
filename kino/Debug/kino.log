@@ -1,0 +1,55 @@
+﻿  Data.cpp
+C:\Users\kiksd\source\repos\kino\kino\Data.cpp(7,11): error C2011: "Data'': "class" wpisz ponownie definicję
+C:\Users\kiksd\source\repos\kino\kino\Data.h(4): message : zobacz deklarację „Data”
+  Film.cpp
+C:\Users\kiksd\source\repos\kino\kino\Film.h(9,15): error C3646: "nazwa": nieznany specyfikator przesłonięcia
+C:\Users\kiksd\source\repos\kino\kino\Film.h(9,15): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\kiksd\source\repos\kino\kino\Film.h(10,16): error C3646: "tworca": nieznany specyfikator przesłonięcia
+C:\Users\kiksd\source\repos\kino\kino\Film.h(10,16): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\kiksd\source\repos\kino\kino\Film.h(15,29): error C2061: błąd składniowy: identyfikator „string”
+C:\Users\kiksd\source\repos\kino\kino\Film.h(17,21): error C3646: "GetFilmName": nieznany specyfikator przesłonięcia
+C:\Users\kiksd\source\repos\kino\kino\Film.h(17,21): error C2059: błąd składniowy: „(”
+C:\Users\kiksd\source\repos\kino\kino\Film.h(17,23): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+C:\Users\kiksd\source\repos\kino\kino\Film.cpp(7,12): error C2011: "Film'': "class" wpisz ponownie definicję
+C:\Users\kiksd\source\repos\kino\kino\Film.h(5): message : zobacz deklarację „Film”
+  main.cpp
+C:\Users\kiksd\source\repos\kino\kino\Film.h(9,15): error C3646: "nazwa": nieznany specyfikator przesłonięcia
+C:\Users\kiksd\source\repos\kino\kino\Film.h(9,15): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\kiksd\source\repos\kino\kino\Film.h(10,16): error C3646: "tworca": nieznany specyfikator przesłonięcia
+C:\Users\kiksd\source\repos\kino\kino\Film.h(10,16): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\kiksd\source\repos\kino\kino\Film.h(15,29): error C2061: błąd składniowy: identyfikator „string”
+C:\Users\kiksd\source\repos\kino\kino\Film.h(17,21): error C3646: "GetFilmName": nieznany specyfikator przesłonięcia
+C:\Users\kiksd\source\repos\kino\kino\Film.h(17,21): error C2059: błąd składniowy: „(”
+C:\Users\kiksd\source\repos\kino\kino\Film.h(17,23): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+C:\Users\kiksd\source\repos\kino\kino\Repertuar.h(13,8): error C2143: błąd składniowy: brakuje „;” przed „<”
+C:\Users\kiksd\source\repos\kino\kino\Repertuar.h(13,8): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\kiksd\source\repos\kino\kino\Repertuar.h(13,25): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+  Repertuar.cpp
+C:\Users\kiksd\source\repos\kino\kino\Film.h(9,15): error C3646: "nazwa": nieznany specyfikator przesłonięcia
+C:\Users\kiksd\source\repos\kino\kino\Film.h(9,15): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\kiksd\source\repos\kino\kino\Film.h(10,16): error C3646: "tworca": nieznany specyfikator przesłonięcia
+C:\Users\kiksd\source\repos\kino\kino\Film.h(10,16): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\kiksd\source\repos\kino\kino\Film.h(15,29): error C2061: błąd składniowy: identyfikator „string”
+C:\Users\kiksd\source\repos\kino\kino\Film.h(17,21): error C3646: "GetFilmName": nieznany specyfikator przesłonięcia
+C:\Users\kiksd\source\repos\kino\kino\Film.h(17,21): error C2059: błąd składniowy: „(”
+C:\Users\kiksd\source\repos\kino\kino\Film.h(17,23): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+C:\Users\kiksd\source\repos\kino\kino\Repertuar.h(13,8): error C2143: błąd składniowy: brakuje „;” przed „<”
+C:\Users\kiksd\source\repos\kino\kino\Repertuar.h(13,8): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\kiksd\source\repos\kino\kino\Repertuar.h(13,25): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+C:\Users\kiksd\source\repos\kino\kino\Repertuar.cpp(5,17): error C2011: "Repertuar'': "class" wpisz ponownie definicję
+C:\Users\kiksd\source\repos\kino\kino\Repertuar.h(10): message : zobacz deklarację „Repertuar”
+  Sala.cpp
+C:\Users\kiksd\source\repos\kino\kino\Sala.cpp(6,12): error C2011: "Sala'': "class" wpisz ponownie definicję
+C:\Users\kiksd\source\repos\kino\kino\Sala.h(8): message : zobacz deklarację „Sala”
+  Seans.cpp
+C:\Users\kiksd\source\repos\kino\kino\Film.h(9,15): error C3646: "nazwa": nieznany specyfikator przesłonięcia
+C:\Users\kiksd\source\repos\kino\kino\Film.h(9,15): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\kiksd\source\repos\kino\kino\Film.h(10,16): error C3646: "tworca": nieznany specyfikator przesłonięcia
+C:\Users\kiksd\source\repos\kino\kino\Film.h(10,16): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+C:\Users\kiksd\source\repos\kino\kino\Film.h(15,29): error C2061: błąd składniowy: identyfikator „string”
+C:\Users\kiksd\source\repos\kino\kino\Film.h(17,21): error C3646: "GetFilmName": nieznany specyfikator przesłonięcia
+C:\Users\kiksd\source\repos\kino\kino\Film.h(17,21): error C2059: błąd składniowy: „(”
+C:\Users\kiksd\source\repos\kino\kino\Film.h(17,23): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+C:\Users\kiksd\source\repos\kino\kino\Seans.cpp(9,13): error C2011: "Seans'': "class" wpisz ponownie definicję
+C:\Users\kiksd\source\repos\kino\kino\Seans.h(5): message : zobacz deklarację „Seans”
+  Generowanie kodu...
